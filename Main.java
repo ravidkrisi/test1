@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args)
     {
         UndoableStringBuilder maya = new UndoableStringBuilder();
-        maya.append("ravidkrisi");
+        maya.append("ravidkrisi!");
         maya.insert(20, "raf");
 
 
